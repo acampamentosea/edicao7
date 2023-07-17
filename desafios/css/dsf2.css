@@ -1,0 +1,31 @@
+@import url('https://fonts.googleapis.com/css2?family=Pangolin&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Calistoga&display=swap');
+
+*{
+    background-color: orange;
+    text-align: center;
+    color: white;
+    justify-content: center;
+    position: relative;
+    margin-left: auto;
+    margin-right: auto;
+}
+p{
+    font-family: 'Pangolin', cursive;
+    font-size: 20px;
+}
+h1{
+    font-family: 'Calistoga', cursive;
+    
+}
+h2{
+    font-family: 'Calistoga', cursive;
+}
+.escrita{
+    border-style: double;
+    width: 500px;
+    justify-content: center;
+}
+.espaco{
+    height: 100px;
+}
